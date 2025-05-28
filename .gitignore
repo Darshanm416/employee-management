@@ -1,0 +1,7 @@
+employee-api/target/employee-api-1.0.0-SNAPSHOT.jar.original
+employee-model/target/classes/
+employee-model/target/employee-model-1.0.0-SNAPSHOT.jar
+employee-model/target/maven-archiver/
+employee-service/target/
+employee-api/target/employee-api-1.0.0-SNAPSHOT.jar
+employee-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
